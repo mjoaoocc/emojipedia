@@ -1,4 +1,4 @@
- <h1 align="center">Hello Everyone 🫶🏻</h1>
+## <h1 align="center">Hello Everyone 🫶🏻</h1>
 
 
 <h2 align="center">I'm MJ - a Junior Software Developer 🤩 </h2>
